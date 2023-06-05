@@ -20,10 +20,3 @@ I'm Srikaran Nimmagadda, a motivated and curious Computer Science student with e
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srikarannimmagadda9&icon=0&color=0)](https://visitcount.itsvg.in)
-
-TypeScript   3 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.31 % 
-JavaScript   2 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.53 % 
-JSON         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-SCSS         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Python       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-
