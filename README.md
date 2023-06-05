@@ -14,6 +14,11 @@ I'm a motivated and curious Computer Science student with expertise in Python, C
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srikarannimmagadda9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
