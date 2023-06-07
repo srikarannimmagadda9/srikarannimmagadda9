@@ -18,7 +18,11 @@ I'm a motivated and curious Computer Science student with expertise in Python, C
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   15 mins         █████████████████████████   100.00 %
+From: 04 June 2023 - To: 06 June 2023
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
