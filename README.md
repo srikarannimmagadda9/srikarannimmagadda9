@@ -1,6 +1,6 @@
 # Welcome!
 ![Header](https://github.com/srikarannimmagadda9/srikarannimmagadda9/blob/main/github-header-image.png)
-<img src="https://github.com/srikarannimmagadda9/srikarannimmagadda9/blob/main/Bio%20for%20Github%20Readme.jpeg" width="100" height="100">
+<img src="https://github.com/srikarannimmagadda9/srikarannimmagadda9/blob/main/Bio%20for%20Github%20Readme.jpeg" width="1000" height="300">
 
 
 ## 🌐 Socials:
