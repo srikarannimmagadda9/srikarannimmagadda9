@@ -1,6 +1,6 @@
 # Welcome!
 ![Header](https://github.com/srikarannimmagadda9/srikarannimmagadda9/blob/main/github-header-image.png)
-
+![Header](https://github.com/srikarannimmagadda9/srikarannimmagadda9/blob/main/Bio%20for%20Github%20Readme.jpeg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snimmagadda9/) 
