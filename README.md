@@ -3,6 +3,10 @@
 
 I'm a motivated and curious Computer Science student with expertise in Python, C++, HTML, CSS, and JavaScript. I've gained practical experience through coursework and personal projects, honing my skills in areas such as app design, UX design process, and user testing. I have a solid foundation in programming languages and frameworks, and I've worked on diverse projects involving advanced data structures, optimization, software architecture, UML, relational database design, SQL, and data munging. I've also participated in hackathons, contributing to the development of a financial app using Figma, Firebase, React, and Node.js. I'm passionate about leveraging technology to empower underrepresented individuals in the financial system. Currently pursuing a Bachelor's degree in Computer Science & Engineering at the University of California, Merced. Let's collaborate on innovative projects!
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snimmagadda9/) 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
@@ -16,10 +20,6 @@ I'm a motivated and curious Computer Science student with expertise in Python, C
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 <br />
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snimmagadda9/) 
-#
 
 # 📊 GitHub Stats:
 <!--START_SECTION:waka-->
