@@ -11,11 +11,11 @@ I'm a motivated and curious Computer Science student with expertise in Python, C
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 hrs 27 mins   █████████████░░░░░░░░░░░░   51.69 %
-Other        2 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.62 %
-CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+HTML         2 hrs 37 mins   ████████████▓░░░░░░░░░░░░   50.20 %
+Other        2 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   40.61 %
+CSS          27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
