@@ -11,7 +11,8 @@ I'm a motivated and curious Computer Science student with expertise in Python, C
 <!--START_SECTION:waka-->
 
 ```txt
-Python   8 mins          █████████████████████████   100.00 %
+Python   11 mins         ████████████████████████▒   97.64 %
+Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
